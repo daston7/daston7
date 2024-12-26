@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dustin</h1>
 <h3 align="center">Computing and Software Systems Graduate @ UniMelb</h3>
 
-- ⚡ Fun fact **I have a pet Corgi**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
