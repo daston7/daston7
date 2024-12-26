@@ -3,7 +3,7 @@
 
 <br><br> <!-- Additional spacing -->
 
-<p align="left"> 
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
